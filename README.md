@@ -1,6 +1,4 @@
 # Conway's Game of Life Module 7 #
-Emmory Stump
-Lisa Liao
 
 ### Rubric Turned In (5 Points) ###
 
